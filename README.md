@@ -1,2 +1,1 @@
-# thalaxware.github.io
-Thalaxware Website
+This is Thalaxware's Website.
